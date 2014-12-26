@@ -1,0 +1,6 @@
+wheel>=0.22
+PySide==1.2.2
+numpy==1.9.1
+pyqtgraph==0.9.10
+scipy==0.14.0
+opencv==2.4.9
